@@ -17,3 +17,26 @@ h1{
     padding:20px;
     text-align: center;
 }
+
+.navbar{
+    border:3px;
+    border-style: solid;
+    border-color:pink;
+    padding:15px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.navbar a{
+    color:blueviolet;
+    padding:15px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: rgb(179, 97, 97);
+    color:aquamarine;
+}
+
+body{
+    margin:0;
+}
