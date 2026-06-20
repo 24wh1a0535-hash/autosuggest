@@ -40,3 +40,15 @@ h1{
 body{
     margin:0;
 }
+.card{
+    border:2px solid black;
+    width: 300px;
+    text-align: center;
+}
+
+.card img{
+    width: 100%;
+}
+.card button{
+    margin-bottom: 20px;
+}
