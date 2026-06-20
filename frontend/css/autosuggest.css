@@ -1,29 +1,28 @@
 .gear{
     position:fixed;
-    top:15px;
-    left:10px;
+    top:10px;
+    left:30px;
 }
-.pill
-{
+.pill{
     position:fixed;
-    top:15px;
-    right:50px;
-}
-.main{
-    text-align: center;
+    top:10px;
+    right:30px;
 
 }
-.first{
-    color:blueviolet;
+.main-content{
+    text-align:center;
 }
-.search{
-    border-radius: 15px;
-    padding-left: 30px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+.search-bar{
+   border-radius:30px;
+   padding-left:30px;
+   padding-right:20px;
+   padding-top:10px;
+   padding-bottom:10px;
 }
 .lens{
     position:relative;
-    left: 30px;
+    top:3px;
+    bottom:10px;
+    right:10px;
+    left:30px;
 }
