@@ -1,0 +1,29 @@
+.gear{
+    position:fixed;
+    top:15px;
+    left:10px;
+}
+.pill
+{
+    position:fixed;
+    top:15px;
+    right:50px;
+}
+.main{
+    text-align: center;
+
+}
+.first{
+    color:blueviolet;
+}
+.search{
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lens{
+    position:relative;
+    left: 30px;
+}
